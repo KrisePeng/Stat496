@@ -7,7 +7,7 @@ Test how prompt instruction styles (T0–T4) and temperature affect:
 - cost proxy (token usage, when available)
 
 ## Dataset
-AP Chemistry multiple-choice sample (10 questions for small test).
+Biochemistry 406 Exam - multiple-choice sample (10 questions for small test).
 
 ## Treatments (Prompts)
 - T0: normal
